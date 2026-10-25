@@ -1,13 +1,12 @@
 ---
-title: "NFC CARD"
+title: "nfc card"
 github: "https://github.com/SunnyBoiX/nfc-card"
-description: "NFC Card"
+description: "I'm making an NFC card because it seems like the easiest thing for a beginner like me. "
 created_at: "2026-10-24"
 total_time: "1h 30m"
 ---
 
 # October 24, 2026: Finished NFC schematic design
-<!-- fabricate:entry 1231 -->
 
 ## October 24, 2026: Schematic Design & Wiring
 
@@ -19,8 +18,7 @@ I built the schematic for my NFC card in EasyEDA to harvest power from a phone t
 
 **Total time spent: 30m**
 
-# October 24, 2026 (entry 2): Finished PCB Layout & Antenna Routing
-<!-- fabricate:entry 1233 -->
+# October 24, 2026: Finished PCB Layout & Antenna Routing
 
 ## October 24, 2026: PCB Layout And Routing
 
